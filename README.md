@@ -1,10 +1,8 @@
 # Sobre mim
-- **Maria Clara**
-- **Estudante**
-- **Amante de Séries e Filmes**
-- **Fanaticas por gatos**
-- **Curto Rock** :+1:
-- **:snake:Sonserina**
+- **:sun_with_face: Maria Clara**
+- **:cat: Cat Lover**
+- **:guitar: Curto Rock**
+- **:snake: slytherin**
 
 <!---
 mariaclara1202/mariaclara1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

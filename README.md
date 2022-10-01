@@ -1,8 +1,12 @@
-# Sobre mim
-- **:sun_with_face: Maria Clara**
-- **:cat: Cat Lover**
-- **:guitar: Curto Rock**
-- **:snake: slytherin**
+# :sparkles: About Me
+
+-**:star:Maria Clara:crescent_moon:**
+-**:snake:Slytherin**
+-**:mage:Potterhead**
+-**:book:Student**
+
+
+
 
 <!---
 mariaclara1202/mariaclara1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
